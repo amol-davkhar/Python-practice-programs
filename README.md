@@ -13,7 +13,9 @@ This repository features a curated series of Python programming challenges and t
 
 ## Why This Repo?
 
-While learning python from beginner to Expert using 100 Days of Code - The Complete Python Pro Boot camp by Dr. Angela Yu course as part of personal learning and up skilling, this collection provides a structured way to practice Python and to document growth as a developer. It serves as both a portfolio of self-study work and a reference for others following a similar learning path. 
+While learning python from beginner to Expert using 100 Days of Code - The Complete Python Pro Boot camp by Dr. Angela Yu course as part of personal learning and up skilling, this collection provides a structured way to practice Python and to document growth as a developer. It serves as both a portfolio of self-study work and a reference for others following a similar learning path.
+
+Note: This repo contains selected exercises and solutions — not every challenge from the course is included.
 
 ## Repo Structure
 
